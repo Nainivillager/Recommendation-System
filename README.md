@@ -14,13 +14,16 @@ Used Kaggle TMDB Datasets
      b) TMDB5000 Credits
 
 Software Used -->
+
 I.   Text editor
-      -> Vs Code and Jupyter Notebook
+      -> Vs Code and Jupyter Notebook.
+
 II.  Python Packages 
       a) Numpy 
       b) Pandas
       c) SkLearn
       d) Pickle
+      
 III. Python Framework for UI development
       -> Streamlit
 
